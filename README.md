@@ -14,6 +14,10 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 ```bash
 # Install dependencies
 npm install
+#install ffprobe
+npm install ffprobe
+#install ffprobe-static
+npm install ffprobe-static
 # Run the app
 npm start
 ```
